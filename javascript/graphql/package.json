@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@nexus/schema": "0.20.1",
-    "@prisma/client": "2.13.0",
+    "@prisma/client": "2.14.0-dev.26",
     "apollo-server": "^2.19.0",
     "graphql": "^15.0.0",
     "nexus-plugin-prisma": "0.26.0",
@@ -15,7 +15,7 @@
     "dev": "nodemon src"
   },
   "devDependencies": {
-    "@prisma/cli": "2.13.0",
+    "@prisma/cli": "2.14.0-dev.26",
     "nodemon": "2.0.6"
   },
   "prettier": {

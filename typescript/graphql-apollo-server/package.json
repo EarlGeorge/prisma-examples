@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@nexus/schema": "0.20.1",
-    "@prisma/cli": "2.13.0",
-    "@prisma/client": "2.13.0",
+    "@prisma/cli": "2.14.0-dev.26",
+    "@prisma/client": "2.14.0-dev.26",
     "@types/node-fetch": "2.5.7",
     "apollo-server": "2.19.0",
     "graphql": "15.4.0",
